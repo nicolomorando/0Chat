@@ -1,0 +1,29 @@
+h2 {
+  margin-top: 20px;
+}
+.enter-name {
+  margin-bottom: 1rem;
+}
+.chat-window {
+  height: 400px;
+  border: 0.25px solid #cccccc;
+  padding: 1rem;
+  overflow-y: scroll;
+}
+
+.input-group-addon{
+  background-color: #FFA500;
+  color: #000000	;
+}
+
+#messages {
+  padding: none;
+}
+
+.msg {
+  margin-bottom: 0.25rem;
+}
+
+.member-name, .new-member {
+  font-weight: bolder;
+}
